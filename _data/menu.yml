@@ -1,0 +1,17 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+ 
+entries:
+  - title: <b> stuff </b>
+    entries:
+      - title: posts
+        url: archive.html
+
+  - title: <b> my links  </b>
+    entries:
+      - title: linkedin
+        url: https://www.linkedin.com/in/ruromgar/
+      - title: email me
+        url: mailto:ruromgar@gmail.com
+      - title: insta
+        url: https://www.instagram.com/unnonueve/
